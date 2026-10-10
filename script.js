@@ -10,7 +10,7 @@ if (profileAvatar) {
 
     profileAvatarImage.src = showingIllustration
       ? "avatar-art.png"
-      : "avatar-photo.jpeg";
+      : "avatar-photo.png";
 
     profileAvatarImage.alt = showingIllustration
       ? "Mohammad Fayeer illustrated avatar"
